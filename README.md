@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# DRE Dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+A simple financial dashboard for managing clients and DRE reports. Built with React and Firebase.
+
 
 ## Available Scripts
 
